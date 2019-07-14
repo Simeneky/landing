@@ -1,5 +1,5 @@
 body{
-	background: #c0ffff;
+	background-image: url('space.png');
 	font-family: 'century gothic', sans-serif;
 }
 header{
@@ -19,12 +19,15 @@ h1{
 	font-weight: bolder;
 }
 
-#linklist{
+#links{
 	margin: 0 auto;
-	width: 70%;
+	width: 90%;
+	max-width: 900px;
+}
+#linklist{
 	list-style-type: none;
 	padding-left: 0px;
-	max-width: 700px;
+
 }
 .button{
 	border: none;
@@ -32,7 +35,7 @@ h1{
 	background: #66cdaa;
 	font-size: large;
 	margin: 10px auto;
-	padding: 20px;
+	padding: 20px 0px;
 	text-align: center;
 	color: #2f4f4f;
 	text-decoration: none;
