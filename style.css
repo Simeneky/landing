@@ -2,6 +2,10 @@ body{
 	background-image: url('space.png');
 	font-family: 'orbitron', sans-serif;
 	font-size: 14pt;
+	height: 100%;
+}
+#wrapper{
+	height: 100%;
 }
 header{
 	width: 100%;
@@ -9,9 +13,10 @@ header{
 #avatar{
 	display: block;
 	margin: 0 auto;
-	width: 70%;
-	max-width: 200px;
-	height: auto;
+	text-align: center;
+	left: 50%;
+	right: 50%;
+	height: 30vh;
 }
 h1{
 	color: #b2b8e2;
