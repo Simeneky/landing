@@ -1,6 +1,7 @@
 body{
 	background-image: url('space.png');
 	font-family: 'orbitron', sans-serif;
+	font-size: 14pt;
 }
 header{
 	width: 100%;
@@ -16,7 +17,7 @@ h1{
 	color: #b2b8e2;
 	margin-top: 0px;
 	text-align: center;
-	font-size: xx-large;
+	font-size: 10vw;
 	font-weight: 900;
 }
 
@@ -34,7 +35,7 @@ h1{
 	border: none;
 	border-radius: 10px;
 	background: #64E2DE;
-	font-size: large;
+	font-size: 5vw;
 	margin: 10px auto;
 	padding: 20px 0px;
 	text-align: center;
