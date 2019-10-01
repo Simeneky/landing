@@ -3,9 +3,13 @@ body{
 	font-family: 'orbitron', sans-serif;
 	font-size: 14pt;
 	height: 100%;
+	margin: 0;
+	display: block;
 }
 #wrapper{
 	height: 100%;
+	margin-right: auto;
+	margin-left: auto;
 }
 header{
 	width: 100%;
